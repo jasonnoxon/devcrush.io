@@ -1,0 +1,2 @@
+(this["webpackJsonpdevcrush.io"]=this["webpackJsonpdevcrush.io"]||[]).push([[0],{3:function(e,n,o){e.exports=o(8)},8:function(e,n,o){"use strict";o.r(n);var t=o(0),c=o.n(t),r=o(2),s=function(){return console.log("app is loaded"),c.a.createElement("div",null,"Welcome to devcrush.io")};o.n(r).a.render(c.a.createElement(s,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.2b9a9c0d.chunk.js.map
