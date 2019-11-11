@@ -1,5 +1,6 @@
 {
   "name": "devcrush.io",
+  "homepage": "https://devcrush.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
